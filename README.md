@@ -9,7 +9,7 @@ Python app to test speedtest on the command line
 
 ## ️ Tech Stack
 
-- Language: e.g. Python
+- Language: Python
 
 
 ##  Installation
